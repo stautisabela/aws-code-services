@@ -1,0 +1,1 @@
+Static page deployment using EC2, AWS Code Services and Nginx
